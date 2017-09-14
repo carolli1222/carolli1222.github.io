@@ -1,0 +1,21 @@
+#headno1 {
+    color: red;
+}
+
+.p1 {
+    font-size: 20px;
+    color: rgba(0, 4, 255, 0.82);
+}
+
+#avatar {
+    margin: 5px auto 8px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: bottom;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 5px solid #E7E7E7;
+    background: url(5.jpg) no-repeat center center;
+    background-size: contain;
+}
